@@ -7,5 +7,5 @@ module.exports = [
   "Fails. Your dad was right. You're a fucking failure",
   "That's it, this code is shit. Its a fucking failing shit.",
   "YAY!!! CODE WORKS!! Just kidding, it does't work.",
-  "Your failing code is a fucking disgrace to humanity"
+  "Your failing code is a fucking disgrace to humanity",
   ];
